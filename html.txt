@@ -1,0 +1,17 @@
+HTML - HyperText Markup Language
+
+.txt, .html = Extension
+
+<html> , <head> (<)= Tags
+
+
+<html>
+<head>
+
+<title>
+Hello Title
+</title>
+
+</head>
+
+</html>
